@@ -1,2 +1,3 @@
 # Connect_4_IA
- School project : Differents ways of creating a Connect 4 IA
+
+ Projet Scolaire : Entrainement d'une Ia au puissance 4 par renforcement en utilisant une architecture DDQN.
